@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.34d3f611.css",
+    "main.js": "/static/js/main.ebacb3b0.js",
+    "static/js/787.a8716480.chunk.js": "/static/js/787.a8716480.chunk.js",
+    "static/media/imagen_en_jpg.jpg": "/static/media/imagen_en_jpg.bee2bc013487063912b1.jpg",
+    "static/media/Katie-Zaferes.jpg": "/static/media/Katie-Zaferes.24f5ce027ada63cf813c.jpg",
+    "static/media/bikeAirbnb.jpg": "/static/media/bikeAirbnb.ffb68f337dd6a114efe7.jpg",
+    "static/media/weddingAirbnb.jpg": "/static/media/weddingAirbnb.0ca25cdd282e44e38485.jpg",
+    "static/media/Airbnb-logo.jpg": "/static/media/Airbnb-logo.c97881f9413c37d097ff.jpg",
+    "index.html": "/index.html",
+    "main.34d3f611.css.map": "/static/css/main.34d3f611.css.map",
+    "main.ebacb3b0.js.map": "/static/js/main.ebacb3b0.js.map",
+    "787.a8716480.chunk.js.map": "/static/js/787.a8716480.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.34d3f611.css",
+    "static/js/main.ebacb3b0.js"
+  ]
+}
