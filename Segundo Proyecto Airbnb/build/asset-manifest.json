@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.301a690c.css",
+    "main.js": "/static/js/main.6b4dafc1.js",
+    "static/js/787.63a0373d.chunk.js": "/static/js/787.63a0373d.chunk.js",
+    "static/media/Imagenes.png": "/static/media/Imagenes.07b90c18176a372b99b8.png",
+    "static/media/swimming.png": "/static/media/swimming.36b86cd4c6a935ea8fba.png",
+    "static/media/wedding-photography.png": "/static/media/wedding-photography.902453a60a4e59281c53.png",
+    "static/media/mountain-bike.png": "/static/media/mountain-bike.b06065bdd3fb762fa727.png",
+    "index.html": "/index.html",
+    "main.301a690c.css.map": "/static/css/main.301a690c.css.map",
+    "main.6b4dafc1.js.map": "/static/js/main.6b4dafc1.js.map",
+    "787.63a0373d.chunk.js.map": "/static/js/787.63a0373d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.301a690c.css",
+    "static/js/main.6b4dafc1.js"
+  ]
+}
